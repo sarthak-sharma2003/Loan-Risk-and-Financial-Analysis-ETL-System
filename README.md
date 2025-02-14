@@ -76,3 +76,5 @@ SELECT AVG(income_usd) FROM loans WHERE loan_status = 1;
 SELECT credit_score, credit_risk_score FROM loans ORDER BY credit_risk_score DESC LIMIT 5;
 ```
 
+## License
+This project is licensed under the MIT License.
