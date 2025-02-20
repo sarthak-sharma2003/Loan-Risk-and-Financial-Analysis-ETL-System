@@ -49,7 +49,7 @@ Loan-Data-Engineering-Project/
 ### Running the ETL Pipeline
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Loan-Data-Engineering-Project.git
+   git clone https://github.com/sarthak-sharma2003/Loan-Data-Engineering-Project.git
    cd Loan-Data-Engineering-Project
    ```
 2. Run the ETL pipeline:
